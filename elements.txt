@@ -1,12 +1,13 @@
-Hydrogen-aroonie
-Helium-aroonie
-Lithium-aroonie
-Beryllium-aroonie
-Boron-aroonie
-Carbon-aroonie
-Nitrogen-aroonie
-Oxygen-aroonie
-Flourine-aroonie
-Neon-aroonie
-Sodium-aroonie
-Magnesium-aroonie
+
+1   Hydrogen-aroonie
+2   Helium-aroonie
+3   Lithium-aroonie
+4   Beryllium-aroonie
+5   Boron-aroonie
+6   Carbon-aroonie
+7   Nitrogen-aroonie
+8   Oxygen-aroonie
+9   Flourine-aroonie
+10  Neon-aroonie
+11  Sodium-aroonie
+12  Magnesium-aroonie
