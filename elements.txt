@@ -1,7 +1,7 @@
 
-1   Hydrogen-aroonie
-2   Helium-aroonie
-3   Lithium-aroonie
+1   Hydrogen-aroonie       1.008
+2   Helium-aroonie         2.016
+3   Lithium-aroonie        3.000
 4   Beryllium-aroonie
 5   Boron-aroonie
 6   Carbon-aroonie
@@ -11,3 +11,4 @@
 10  Neon-aroonie
 11  Sodium-aroonie
 12  Magnesium-aroonie
+
